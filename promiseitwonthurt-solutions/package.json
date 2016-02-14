@@ -1,0 +1,30 @@
+{
+  "name": "promiseitwonthurt-solutions",
+  "version": "1.0.0",
+  "description": "Solutions to promise-it-wont-hurt workshopper",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kwpeters/promiseitwonthurt-solutions.git"
+  },
+  "keywords": [
+    "nodeschool",
+    "workshopper",
+    "nodeschoolcle"
+  ],
+  "author": "Kevin Peters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwpeters/promiseitwonthurt-solutions/issues"
+  },
+  "homepage": "https://github.com/kwpeters/promiseitwonthurt-solutions",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "promise-it-wont-hurt": "^0.1.0",
+    "q": "^1.4.1",
+    "q-io": "^1.13.1"
+  }
+}

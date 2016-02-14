@@ -1,0 +1,26 @@
+{
+  "name": "functional-js-solutions",
+  "version": "1.0.0",
+  "description": "My solutions to functional-javascript-workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kwpeters/functional-js-solutions.git"
+  },
+  "keywords": [
+    "functional",
+    "javascript"
+  ],
+  "author": "Kevin Peters <kwpeters@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwpeters/functional-js-solutions/issues"
+  },
+  "homepage": "https://github.com/kwpeters/functional-js-solutions",
+  "dependencies": {
+    "functional-javascript-workshop": "^1.0.5"
+  }
+}

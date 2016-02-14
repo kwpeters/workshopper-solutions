@@ -1,0 +1,16 @@
+{
+  "name": "learnyounode-solutions",
+  "version": "1.0.0",
+  "description": "Solutions to the learnyounode workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Peters",
+  "license": "MIT",
+  "dependencies": {
+    "concat-stream": "^1.5.0",
+    "learnyounode": "^2.7.1",
+    "through2-map": "^2.0.0"
+  }
+}
