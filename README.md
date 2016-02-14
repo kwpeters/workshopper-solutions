@@ -1,2 +1,2 @@
-# functional-js-solutions
+# workshopper-solutions
 My solutions to NodeSchool workshoppers
