@@ -9,6 +9,7 @@
   "author": "Kevin Peters <kwpeters@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "lodash": "^4.3.0",
     "lololodash": "^0.8.0"
   }
 }
