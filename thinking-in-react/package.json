@@ -9,5 +9,7 @@
   "author": "Kevin Peters <kwpeters@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "react": "^0.14.0-rc1",
+    "react-dom": "^0.14.0-rc1"
   }
 }
