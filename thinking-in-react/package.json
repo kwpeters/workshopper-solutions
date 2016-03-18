@@ -1,0 +1,13 @@
+{
+  "name": "thinking-in-react-solutions",
+  "version": "1.0.0",
+  "description": "Solutions to thinking in react workshopper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Peters <kwpeters@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
