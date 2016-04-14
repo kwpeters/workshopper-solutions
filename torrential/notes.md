@@ -55,3 +55,17 @@ torrent create xyz/ -o xyz-tracker.torrent --tracker http://localhost:8000/annou
 ```
 bittorrent-tracker
 ```
+
+# 05 seed and download the torrent
+
+To seed the torrent:
+
+```
+torrent seed xyz-tracker.torrent
+```
+
+To download the torrent (from a different directory):
+
+```
+torrent xyz-tracker.torrent
+```
