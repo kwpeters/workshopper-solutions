@@ -50,3 +50,8 @@ To create a torrent file that uses a specific tracker.
 torrent create xyz/ -o xyz-tracker.torrent --tracker http://localhost:8000/announce
 ```
 
+# 04 start the tracker
+
+```
+bittorrent-tracker
+```
