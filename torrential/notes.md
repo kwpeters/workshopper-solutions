@@ -1,0 +1,44 @@
+# Before we start
+
+1. Install the workshopper
+
+    ```
+    npm install -g torrential
+    ```
+    
+    Or, to install locally...
+    
+    ```
+    npm install torrential
+    ```
+    
+    ```torrential.sh
+    #!/usr/bin/env bash
+    node ./node_modules/.bin/torrential $@
+    ```
+
+2. Install the `torrent` command line interface (CLI).      
+
+    ```
+    npm install -g torrent
+    ```
+
+# 00 install torrent
+
+- Just install `torrent` globally (as shown above).
+- Just run `torrential verify` to move on to step 1.
+
+# 01 create a torrent file
+
+To create a torrent:
+
+```
+torrent create xyz/ -o xyz.torrent
+```
+
+# 02 setup the tracker
+
+```
+npm install bittorrent-tracker -g
+```
+

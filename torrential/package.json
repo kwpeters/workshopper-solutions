@@ -1,0 +1,14 @@
+{
+  "name": "torrential-solution",
+  "version": "1.0.0",
+  "description": "Solutions to torrential workshopper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Peters <kwpeters@gmail.com>",
+  "license": "",
+  "dependencies": {
+    "torrential": "^1.0.4"
+  }
+}
