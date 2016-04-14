@@ -42,3 +42,11 @@ torrent create xyz/ -o xyz.torrent
 npm install bittorrent-tracker -g
 ```
 
+# 03 link the torrent to the tracker
+
+To create a torrent file that uses a specific tracker.
+
+```
+torrent create xyz/ -o xyz-tracker.torrent --tracker http://localhost:8000/announce
+```
+
