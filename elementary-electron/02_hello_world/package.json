@@ -1,0 +1,14 @@
+{
+  "name": "elementary-electron",
+  "version": "1.0.0",
+  "description": "Workshopper app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Peters <kwpeters@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cat-picture": "^5.1.2"
+  }
+}
